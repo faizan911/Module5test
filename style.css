@@ -1,0 +1,298 @@
+import{
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+}
+body{
+font-family: 'DM Sans', sans-serif;;
+position: relative;
+width: 1440px;
+height: 2688px;
+background: #F3F3F3;
+}
+.navigation{
+margin-top: 102px;
+margin-bottom: 2551px;
+margin-left: 160px;
+margin-right: 160px;
+position: absolute;
+width: 1120px;
+height: 35px;
+}
+#logo{
+position: absolute;
+margin-right: 1052.54px;
+
+border-radius: 0px;
+}
+.work{
+position: absolute;
+margin-bottom: 2551px;
+margin-top: 103px;
+margin-right: 494.91px;
+margin-left: 895.09px;
+font-size: small;
+}
+.about{
+    position: absolute;
+    margin-bottom: 2551px;
+    margin-top: 103px;
+    margin-right: 404.56px;
+    margin-left: 976.44px;
+    font-size: small;
+}
+a{
+    color: black;
+}
+.play{
+    position: absolute;
+    margin-left: 1066.71px;
+    margin-right: 268.29px;
+    margin-top: 103px;
+    margin-bottom: 2551px;
+    font-size: small;
+}
+.contact{
+    position: absolute;
+    margin-left: 1202.62px;
+    margin-right: 159.38px;
+    margin-top: 103px;
+    margin-bottom: 2551px;
+    font-size: small;
+}
+.hello{
+    position: absolute;
+    margin-left: 160px;
+    margin-right: 920px;
+    margin-bottom: 2199px;
+    margin-top: 360px;
+    width: 360px;
+    height: 129px;
+}
+.intro{
+    position: absolute;
+    margin-left: 636px;
+    margin-right: 224px;
+    margin-bottom: 2153px;
+    margin-top: 424px;
+    color: #606060;
+    width: 580px;
+    height: 111px;
+}.project1{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 757px;
+    margin-bottom: 1912px;
+    width: 326.21px;
+    height: 19px;
+}.projectintro{
+    position: absolute;
+    margin-top: 801px;
+    margin-bottom: 1718px;
+    margin-left: 160px;
+}.projectintro1{
+    position: absolute;
+    margin-top: 902px;
+    margin-left: 160px;
+    margin-right: 804.66px;
+    margin-bottom: 1467px;
+    color: #606060;
+}.projectimages{
+    position: absolute;
+    margin-top: 1104px;
+    margin-left: 160px;
+    margin-bottom: 1564px;
+    margin-right: 963.79px;
+    width: 326.21px;
+    height: 20px;
+}.webpageimage1{
+    position: absolute;
+    margin-top: 757px;
+    margin-bottom: 1566.32px;
+    margin-left: 640px;
+    margin-right: 160px;
+}#i{
+    height: 364.68px;
+    width: 640px;
+}#line{
+    position: absolute;
+    margin-top: 1230px;
+    margin-bottom: 1458px;
+    margin-left: 140px;
+}.project2{
+    position: absolute;
+    margin-top: 1344px;
+    margin-bottom: 1325px;
+    margin-left: 160px;
+    width: 326.21px;
+    height: 19px;
+}.projecting{
+    position: absolute;
+    margin-top: 1388px;
+    margin-bottom: 1131px;
+    margin-left: 160px;
+    width: 356px;
+    height: 169px;
+}.projectimages1{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 1691px;
+    margin-bottom: 977px;
+}
+.webpageimage2{
+    position: absolute;
+    margin-left: 640px;
+    margin-top: 1344px;
+    margin-right: 160px;
+}#line1{
+    position: absolute;
+    margin-top: 1817px;
+    margin-left: 140px;
+}.project3{
+    position: absolute;
+    margin-top: 1931px;
+    margin-bottom: 731px;
+    margin-left: 160px;
+}.projecting1{
+    position: absolute;
+    margin-top: 1975px;
+    margin-bottom: 544px;
+    margin-left: 160px;
+}.projectimages2{
+    position: absolute;
+    margin-top: 2278px;
+    margin-bottom: 390px;
+    margin-left: 160px;
+}.webpageimage3{
+    position: absolute;
+    margin-top: 1931px;
+    margin-bottom: 312.32px;
+    margin-right: 160px;
+    margin-left: 640px;
+}#line2{
+    position: absolute;
+    margin-top: 2404px;
+    margin-bottom: 284px;
+    margin-left: 140px;
+}#copyright{
+    position: absolute;
+    margin-top: 2598px;
+    margin-bottom: 70px;
+    margin-right: 1009.18px;
+    margin-left: 160px;
+}#artstation{
+    position: absolute;
+    margin-top: 2598px;
+    margin-bottom: 70px;
+    margin-right: 391.14px;
+    margin-left: 950.65px;
+}#linkedin{
+    position: absolute;
+    margin-top: 2598px;
+    margin-bottom: 70px;
+    margin-right: 261.19px;
+    margin-left: 1080.6px;
+}#twitter{
+    position: absolute;
+    margin-top: 2598px;
+    margin-bottom: 70px;
+    margin-right: 160px;
+    margin-left: 1210.56px;
+}
+
+/* now it's time for styling the about page */
+.hello1{
+    position: absolute;
+    width: 400px;
+    height: 100px;
+    margin-top: 360px;
+    margin-left: 160px;
+    margin-right: 800px;
+    margin-bottom: 1285px;
+    font-weight: 500;
+}.aboutme{
+    position: absolute;
+    width: 575px;
+    height: 359px;
+    margin-top: 591px;
+    margin-bottom: 894px;
+    margin-left: 160px;
+}.manimage{
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 859px;
+    margin-right: 160px;
+    margin-bottom: 894px;
+}.Main{
+    position: absolute;
+    margin-top: 1089px;
+    margin-bottom: 735px;
+    margin-left: 160px;
+}.mint{
+    position: absolute;
+    margin-top: 1086px;
+    margin-bottom: 704px;
+    margin-left: 347px;
+}.minto{
+    position: absolute;
+    margin-top: 1164px;
+    margin-bottom: 653px;
+    margin-left: 348px;
+    margin-right: 879px;
+}.minton{
+    position: absolute;
+    margin-top: 1261px;
+    margin-bottom: 563px;
+    margin-left: 160px;
+    margin-right: 1156px;
+}.mintono{
+    position: absolute;
+    margin-top: 1258px;
+    margin-bottom: 542px;
+    margin-left: 347px;
+    margin-right: 692px;
+}#lino{
+    position: absolute;
+    margin-top: 1436px;
+    margin-bottom: 406px;
+    margin-left: 160px;
+    margin-right: 160px;
+}.ahmad{
+    position: absolute;
+    width: 347px;
+    height: 71px;
+    margin-top: 1509px;
+    margin-bottom: 264px;
+    margin-left: 160px;
+    margin-right: 933px;
+}.ahmadi{
+    position: absolute;
+    margin-top: 1516px;
+    margin-left: 829px;
+    margin-right: 239px;
+    margin-bottom: 291px;
+}.ahmada{
+    position: absolute;
+    margin-top: 1580px;
+    margin-bottom: 242px;
+    margin-left: 829px;
+    margin-right: 501px;
+}#copyright1{
+    position: absolute;
+    margin-top: 1772px;
+    margin-bottom: 52px;
+    margin-left: 160px;
+}#artstation1{
+    position: absolute;
+    margin-top: 1772px;
+    margin-bottom: 52px;
+    margin-left: 950.65px;
+}#linkedin1{
+    position: absolute;
+    margin-top: 1772px;
+    margin-bottom: 52px;
+    margin-left: 1080.6px;
+}#twitter1{
+    position: absolute;
+    margin-top: 1772px;
+    margin-bottom: 52px;
+    margin-left: 1210.56px;
+}
